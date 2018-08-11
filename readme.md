@@ -1,18 +1,28 @@
-# yogr.uk
-## yogr.uk
-### yogr.uk
-#### yogr.uk
-##### yogr.uk
+# Pronunciation
+# Hindi
+# Split session into sections
+# Auto-populate with suggetsions
+# Randomise
 
-# YOGR
-## YOGR
-### YOGR
-#### YOGR
-##### YOGR
+# Structure of a lesson
+## Simple seated/reclined meditation, breathing
+* Mantra
 
-# Structure of a yoga lesson
-## Shavasana 1
-## Warrior poses
+## All fours
+* Cat/cow
+* Side bend
+* Neck
+
+## Down dog
+## Forward fold (bent knees to start)
+## Standing/mountain
+## Sun salutation
+## Hip openers
+## Warriors
+
 ## Inversions
+* Shoulder stand
+* Handstand
+
 ## Back bends
-## Shavasana 2
+## Corpse Pose (Savasana)
