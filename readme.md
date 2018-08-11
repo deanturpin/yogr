@@ -25,4 +25,4 @@
 * Handstand
 
 ## Back bends
-## Corpse Pose (Savasana)
+## Corpse Pose (Savasana) शवासन
