@@ -1,12 +1,13 @@
 # Pronunciation
 # Hindi
 # Split session into sections
-# Auto-populate with suggetsions
+# Auto-populate with suggestions
 # Randomise
 
 # Structure of a lesson
 ## Simple seated/reclined meditation, breathing
 * Mantra
+* Intention for the class
 
 ## All fours
 * Cat/cow
