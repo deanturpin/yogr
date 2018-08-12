@@ -3,7 +3,7 @@
 # Split session into sections
 # Auto-populate with suggestions
 # Randomise
-# Asana constructor
+# Asana designer/constructor
 
 # Structure of a lesson
 ## Simple seated/reclined meditation, breathing
