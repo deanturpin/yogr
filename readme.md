@@ -28,3 +28,22 @@
 
 ## Back bends
 ## Corpse Pose (Savasana) शवासन
+
+# Things
+* Drills
+* HIIT
+* Inversions
+* Stretches
+* Intro to yoga
+* Body awareness
+* Movement
+* Movement to compliment running
+* Moviiity
+* Yoga for runners
+* Running techniques
+* Cycling
+* Strong
+* Inversions
+* Balance is not passive
+* Music
+* BPM / tempo
