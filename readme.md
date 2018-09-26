@@ -47,3 +47,7 @@
 * Balance is not passive
 * Music
 * BPM / tempo
+
+"The sympathetic branch is regarded as the “fight or flight” system, getting us ready to act, react and perform, while the parasympathetic side is often characterized as the “rest and digest” system. Both systems typically function simultaneously, but in opposition to each other, either activating or inhibiting specific physiological responses."
+
+https://www.firstbeat.com/en/blog/beyond-heart-rate-heart-rate-variability/
