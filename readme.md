@@ -1,4 +1,7 @@
 # Todo
+- Define start, mid point, end point
+- TSP?
+- Report proportion of target areas: 40% hips, 10% arms
 - Produce multiple levels of difficulty in parallel
 - Style (yin, hatha)
 - Report/request percentage of style

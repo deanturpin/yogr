@@ -1,8 +1,9 @@
 Asana,Sanskrit,English,Type,Effect on spine,Difficulty,Variation
 Adho Mukha Vrikshasana,अधोमुखवृक्षासन,"Downward-Facing Tree, Yoga Handstand",Balancing,,1,
 Astavakrasana,अष्टावक्रासन,"Aṣṭāvakra's pose, Eight-angled",Balancing,,2,
-Bakasana Kakasana,"बकासन, ककासन",Crane (arms straight) Crow (arms bent),Balancing,,2,Arms straight
-Bhujapidasana,भुजपीडासन,Arm-pressing posture,Balancing,,1,
+Bakasana,बकासन,Crane (arms straight),Balancing,,2,
+Kakasana,ककासन,Crow (arms bent),Balancing,,2,Side
+Bhujapidasana,भुजपीडासन,"Arm-pressing posture, seal, sphinx",Balancing,,1,
 Kaundinyasana,कौण्डिन्यसन,Kaundinya's pose,Balancing,,1,
 Kukkutasana,कुक्कुटासन,Cockerel,Balancing,,1,
 Lolasana,लोलासन,Pendant,Balancing,,1,
@@ -13,10 +14,10 @@ Tulasana,तुलासन,Balance / Scales,Balancing,,1,
 Vasishtasana,वसिष्ठासन,"Vasishta's pose, Side plank",Balancing,,1,
 Halasana,हलासन,Plough,Inversion,Forward bend,1,
 Karnapidasana,कर्णपीडासन,Ear-pressing,Inversion,Forward bend,1,
-Sarvangasana,सालम्बसर्वाङ्गासन,Shoulder Stand,Inversion,,1,
+Sarvangasana,सालम्बसर्वाङ्गासन,Shoulder Stand,Inversion,,1,Split legs
 Setu Bandha Sarvangasana,सेतुबन्धसर्वाङ्गासन,Shoulder supported bridge,Inversion,Backbend,1,
 "Shirshasana, Kapalasana",शीर्षासन,"Headstand, Yoga Headstand",Inversion,,2,
-"Urdhva Dhanurasana, Chakrasana","ऊर्ध्वधनुरासन, चक्रासन","Upwards-facing bow, Wheel",Inversion,Backbend,2,one leg raised
+"Urdhva Dhanurasana, Chakrasana","ऊर्ध्वधनुरासन, चक्रासन","Upwards-facing bow, wheel",Inversion,Backbend,2,one leg raised
 Viparita Dandasana,विपरीत दण्डासन,Inverted Staff,Inversion,Backbend,1,
 "Viparita Karani, Uttanapadasana (variant)",विपरीतकरणि,"Inverted practice, Legs up the wall",Inversion,,1,
 Vrischikasana,वृश्चिकासन,Scorpion,Inversion,Backbend,2,
@@ -36,14 +37,14 @@ Jathara Parivartanasana,ञटर परिवर्तनासन​,Belly twi
 Makarasana,मकरासन,Crocodile,Reclining,,1,
 Matsyasana,मत्स्यासन,Fish,Reclining,Backbend,1,
 Shalabhasana,शलभासन,Locust,Reclining,Backbend,1,
-Shavasana,शवासन,Corpse,Reclining,,1,
+Shavasana,शवासन,Corpse,Reclining,,1,"Butterfly legs, buttterfly legs and arms"
 Supta Padangusthasana,सुप्त पादाङ्गुष्ठासन,Big toe supine,Reclining,,1,
 Supta Virasana,सुप्त वीरासन,Reclined hero,Reclining,,1,
 Urdhva Mukha Shvanasana,ऊर्ध्वमुखश्वानासन,Upward-Facing Dog,Reclining,Backbend,1,
 "Yoganidrasana, Pasini Mudra",योगनिद्रासन,"Yogic sleep, Noose Mudra",Reclining,Forward bend,1,
 Akarna Dhanurasana,आकर्णधनुरासन,"Shooting bow, Archer, Bow and arrow",Sitting,,1,
 "Baddha Konasana, Bhadrasana",बद्धकोणासन,"Bound angle, Cobbler's pose",Sitting,,1,
-Balasana,बालासन,Child,Sitting,,1,
+Balasana,बालासन,Child,Sitting,,1,"wide legs, arms back"
 Bharadvajasana,भरद्वाजासन,Bharadvaja's twist,Sitting,Twist,1,
 Dandasana,दण्डासन,Staff,Sitting,,1,
 Garbha Pindasana,गर्भासन,Embryo in Womb,Sitting,,1,
@@ -81,11 +82,11 @@ Tadasana,ताडासन,Mountain,Standing,,1,
 "Trikonasana, Utthita Trikonasana","त्रिकोणासन, उत्थित त्रिकोणासन",Triangle,Standing,,2,
 Utkatasana,उत्कटासन,"Awkward, Powerful, Chair",Standing,,1,One leg
 Uttanasana,उत्तानासन,Standing Forward Bend,Standing,Forward bend,1,
-Utthita Hastapadangusthasana,उत्थित हस्तपादाङ्गुष्ठासन,Standing Big Toe Hold (I: leg to the side II: leg to the front),Standing,,1,
+Utthita Hastapadangusthasana,उत्थित हस्तपादाङ्गुष्ठासन,Standing Big Toe Hold,Standing,,1,"leg to the side, leg to the front"
 Utthita Parsvakonasana,उत्थितपार्श्वकोणासन,Extended Side Angle,Standing,,1,
 Viparita Virabhadrasana,विपरीतवीरभद्रासन,"Reversed Warrior, Sun warrior",Standing,,1,
 Virabhadrasana I,वीरभद्रासन,Warrior I,Standing,,1,
-Virabhadrasana II,वीरभद्रासन II,Warrior II,Standing,,1,
+Virabhadrasana II,वीरभद्रासन II,Warrior II,Standing,,1,Reach backwards (like Trikonasana)
 Virabhadrasana III,वीरभद्रासन III,Warrior III,Standing,,1,
 Durvasasana,,Durvasa's Pose,"Standing, Balancing",,1,
 Garudasana,गरुडासन,Eagle,"Standing, Balancing",,2,
