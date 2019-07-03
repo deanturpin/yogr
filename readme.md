@@ -1,5 +1,5 @@
 # Todo
-- Difficulty
+- Produce multiple levels of difficulty in parallel
 - Style (yin, hatha)
 - Report/request percentage of style
 - Opposing asana
