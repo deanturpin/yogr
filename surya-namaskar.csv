@@ -1,14 +1,27 @@
-Asana,Root
-Pranamasana,feet
-Hasta Uttanasana,feet
-Uttanasana,"feet, hands"
-Ardha Uttanasana,feet
-Anjaneyasana,feet
-Adho Mukha Svanasana,"feet, hands"
-Kumbhakasana,"feet, hands"
-Ashtanga Namaskara,"feet, hands"
-Urdhva Mukha Shvanasana,"feet, hands"
-Adho Mukha Svanasana,"feet, hands"
-Anjaneyasana,"feet, hands"
-Uttanasana,feet
-Hasta Uttanasana,feet
+Asana,Grounding,Focus,,
+Pranamasana,feet,legs,,
+Hasta Uttanasana,feet,back,,
+Uttanasana,"feet, hands",pelvis,,
+Ardha Uttanasana,feet,back,,
+Anjaneyasana,feet,legs,,
+Adho Mukha Svanasana,"feet, hands",shoulders,,
+Kumbhakasana,"feet, hands",shoulders,,
+Ashtanga Namaskara,"feet, hands",shoulders,,
+Urdhva Mukha Shvanasana,"feet, hands",back,,
+Adho Mukha Svanasana,"feet, hands",shoulders,,
+Anjaneyasana,"feet, hands",legs,,
+Uttanasana,feet,legs,,
+Hasta Uttanasana,feet,legs,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,legs
+,,,,back
+,,,,pelvis
+,,,,chest
+,,,,shoulders
+,,,,arms
