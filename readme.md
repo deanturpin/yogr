@@ -11,6 +11,7 @@
 - Opposing asana
 - Structured but with some surprises
 - Asana details: get images/wiki using Google I feel lucky
+- ML asana detector
 
 # References
 - https://en.wikipedia.org/wiki/List_of_asanas
