@@ -1,17 +1,98 @@
-# Todo
-- Define start and optional waypoint (ends back at the start)
-- TSP?
-- Report proportion of target areas: 40% hips, 10% arms
-- Produce grid of options
-- Produce multiple levels of difficulty in parallel
-- Style proportion (yin, hatha)
-- Product graph of cumulative effects
-- Calculate probabilities of each phase
-- Report/request percentage of style
-- Opposing asana
-- Structured but with some surprises
-- Asana details: get images/wiki using Google I feel lucky
-- ML asana detector
-
-# References
-- https://en.wikipedia.org/wiki/List_of_asanas
+- Asana,Type
+- Astavakrasana,अष्टावक्रासन
+- Bakasana,Arm balance
+- Kakasana,Arm balance
+- Tittibhasana,Arm balance
+- Kaundinyasana,Arm balance
+- Kukkutasana,Arm balance
+- Lolasana,Arm balance
+- Mayurasana,Arm balance
+- Tulasana,तुलासन
+- Vrikshasana,Balance
+- Garudasana,Balance
+- Trivikramasana,त्रिविक्रमासन
+- Durvasasana,Balance
+- Utthita Hastapadangusthasana,Balance
+- Natarajasana,नटराजासन
+- Parshvottanasana,Fold
+- Prasarita Padottanasana,Fold
+- Uttanasana,Fold
+- Janusirsasana,Fold
+- Pincha Mayurasana,Inversion
+- Vrischikasana,Inversion
+- "Shirshasana, Yoga Headstand"
+- Adho Mukha Vrikshasana,अधोमुखवृक्षासन
+- Vajrasana,Kneeling
+- "Bidalasana,"बिडालासन
+- Kapotasana,Kneeling
+- Ushtrasana,Kneeling
+- "Virasana, Hero's Meditation"
+- Balasana,Kneeling
+- Parighasana,Kneeling
+- Gorakshasana,गोरक्षासन
+- Bharadvajasana,Lotus
+- Garbha Pindasana,Lotus
+- Gomukhasana,Lotus
+- Kraunchasana,Lotus
+- "Muktasana,"Liberated
+- Padmasana,Lotus
+- Simhasana,Lotus
+- Vasishtasana,वसिष्ठासन
+- Anantasana,अनन्तासन
+- "Ashtanga Namaskara, Caterpillar"
+- Bhairavasana Ankushasana,Prone
+- Bhekasana,Prone
+- Bhujangasana,Prone
+- Chaturanga Dandasana,चतुरङ्गदण्डासन
+- Kumbhakasana,Prone
+- Dhanurasana,Prone
+- Shalabhasana,Prone
+- Sarpasana,Prone
+- Bhujapidasana, sphinx"
+- Urdhva Mukha Shvanasana,Prone
+- Supta Virasana,Prone
+- Makarasana,Prone
+- Mandukasana,Prone
+- Dandasana,Seated
+- "Baddha Konasana, Cobbler's pose"
+- Akarna Dhanurasana, Bow and arrow"
+- "Navasana,"Boat
+- Marichyasana,Seated
+- Kurmasana,Seated
+- Matsyendrasana,मत्स्येन्द्रासन
+- Paschimottanasana,Seated
+- "Sukhasana,सुखासन
+- Svastikasana,स्वस्तिकसन
+- Upavishta Konasana,Seated
+- Halasana,Shoulders
+- Karnapidasana,Shoulders
+- Sarvangasana,Shoulders
+- Niralamba Sarvangasana,Shoulders
+- Setu Bandha Sarvangasana,Shoulders
+- Samakonasana,Splits
+- Hanumanasana,Splits
+- Rajakapotasana,Splits
+- Malasana,Squatting
+- Pashasana,Squatting
+- Tadasana,Standing
+- Utkatasana, Chair"
+- Jathara Parivartanasana,Supine
+- Matsyasana,Supine
+- "Urdhva Dhanurasana, wheel"
+- Viparita Dandasana,Supine
+- "Viparita Karani, Legs up the wall"
+- Supta Trivikramasana,Supine
+- Shavasana,Supine
+- Supta Padangusthasana,Supine
+- Ardha Pavan Muktasana,Supine
+- "Yoganidrasana, Noose Mudra"
+- Adho Mukha Shvanasana,Warrior
+- Anjaneyasana,Warrior
+- Ardha Chandrasana,Warrior
+- "Trikonasana,"त्रिकोणासन
+- Utthita Parsvakonasana,Warrior
+- Viparita Virabhadrasana,विपरीतवीरभद्रासन
+- Virabhadrasana I,Warrior
+- Virabhadrasana II,Warrior
+- Virabhadrasana III,Warrior
+- Parshvakonasana,Warrior
