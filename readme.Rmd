@@ -18,5 +18,5 @@ total <- nrow(asana)
 
 # Take sample of all asana
 s <- sample(total, selection)
-asana[s,-5]
+asana[s,1:3]
 ```
