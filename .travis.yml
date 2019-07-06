@@ -1,6 +1,7 @@
 language: R
 install:
   - R -e "install.packages('rmarkdown')"
+  - R -e "install.packages('csv')"
 
 script: make && mv .gitignore tmp/
 
