@@ -1,5 +1,6 @@
 ---
-title: "Created `r format(Sys.time(), '%a %b %d %X')`"
+title: "YOGR"
+date: "Created with &hearts; by a computer on `r format(Sys.time())`"
 output:
   html_document:
     df_print: kable
