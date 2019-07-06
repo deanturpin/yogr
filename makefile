@@ -1,2 +1,2 @@
 all:
-	./render.sh
+	./rendeR

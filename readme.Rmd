@@ -1,0 +1,30 @@
+---
+output:
+  html_document:
+    df_print: kable
+    code_folding: "hide"
+    theme: united
+    highlight: zenburn
+---
+
+# Today's selection
+```{r}
+# install.packages("csv")
+library("csv")
+asana <- read.csv("asana.csv")
+
+nrow(asana)
+# types <- unique(asana$Type)
+
+# types
+num <- nrow(asana)
+
+# Take sample of all asana
+s <- sample(num, 10)
+asana[s,]
+```
+
+# All asana
+```{r}
+asana
+```
