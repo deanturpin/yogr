@@ -1,98 +1,41 @@
-- Asana,Type
-- Astavakrasana,अष्टावक्रासन
-- Bakasana,Arm balance
-- Kakasana,Arm balance
-- Tittibhasana,Arm balance
-- Kaundinyasana,Arm balance
-- Kukkutasana,Arm balance
-- Lolasana,Arm balance
-- Mayurasana,Arm balance
-- Tulasana,तुलासन
-- Vrikshasana,Balance
-- Garudasana,Balance
-- Trivikramasana,त्रिविक्रमासन
-- Durvasasana,Balance
-- Utthita Hastapadangusthasana,Balance
-- Natarajasana,नटराजासन
-- Parshvottanasana,Fold
-- Prasarita Padottanasana,Fold
-- Uttanasana,Fold
-- Janusirsasana,Fold
-- Pincha Mayurasana,Inversion
-- Vrischikasana,Inversion
-- "Shirshasana, Yoga Headstand"
-- Adho Mukha Vrikshasana,अधोमुखवृक्षासन
-- Vajrasana,Kneeling
-- "Bidalasana,"बिडालासन
-- Kapotasana,Kneeling
-- Ushtrasana,Kneeling
-- "Virasana, Hero's Meditation"
-- Balasana,Kneeling
-- Parighasana,Kneeling
-- Gorakshasana,गोरक्षासन
-- Bharadvajasana,Lotus
-- Garbha Pindasana,Lotus
-- Gomukhasana,Lotus
-- Kraunchasana,Lotus
-- "Muktasana,"Liberated
-- Padmasana,Lotus
-- Simhasana,Lotus
-- Vasishtasana,वसिष्ठासन
-- Anantasana,अनन्तासन
-- "Ashtanga Namaskara, Caterpillar"
-- Bhairavasana Ankushasana,Prone
-- Bhekasana,Prone
-- Bhujangasana,Prone
-- Chaturanga Dandasana,चतुरङ्गदण्डासन
-- Kumbhakasana,Prone
-- Dhanurasana,Prone
-- Shalabhasana,Prone
-- Sarpasana,Prone
-- Bhujapidasana, sphinx"
-- Urdhva Mukha Shvanasana,Prone
-- Supta Virasana,Prone
-- Makarasana,Prone
-- Mandukasana,Prone
-- Dandasana,Seated
-- "Baddha Konasana, Cobbler's pose"
-- Akarna Dhanurasana, Bow and arrow"
-- "Navasana,"Boat
-- Marichyasana,Seated
-- Kurmasana,Seated
-- Matsyendrasana,मत्स्येन्द्रासन
-- Paschimottanasana,Seated
-- "Sukhasana,सुखासन
-- Svastikasana,स्वस्तिकसन
-- Upavishta Konasana,Seated
-- Halasana,Shoulders
-- Karnapidasana,Shoulders
-- Sarvangasana,Shoulders
-- Niralamba Sarvangasana,Shoulders
-- Setu Bandha Sarvangasana,Shoulders
-- Samakonasana,Splits
-- Hanumanasana,Splits
-- Rajakapotasana,Splits
-- Malasana,Squatting
-- Pashasana,Squatting
-- Tadasana,Standing
-- Utkatasana, Chair"
-- Jathara Parivartanasana,Supine
-- Matsyasana,Supine
-- "Urdhva Dhanurasana, wheel"
-- Viparita Dandasana,Supine
-- "Viparita Karani, Legs up the wall"
-- Supta Trivikramasana,Supine
-- Shavasana,Supine
-- Supta Padangusthasana,Supine
-- Ardha Pavan Muktasana,Supine
-- "Yoganidrasana, Noose Mudra"
-- Adho Mukha Shvanasana,Warrior
-- Anjaneyasana,Warrior
-- Ardha Chandrasana,Warrior
-- "Trikonasana,"त्रिकोणासन
-- Utthita Parsvakonasana,Warrior
-- Viparita Virabhadrasana,विपरीतवीरभद्रासन
-- Virabhadrasana I,Warrior
-- Virabhadrasana II,Warrior
-- Virabhadrasana III,Warrior
-- Parshvakonasana,Warrior
+# Todo
+- Define start and optional waypoint (ends back at the start)
+- TSP?
+- Report proportion of target areas: 40% hips, 10% arms
+- Produce grid of options
+- Produce multiple levels of difficulty in parallel
+- Style proportion (yin, hatha)
+- Product graph of cumulative effects
+- Calculate probabilities of each phase
+- Report/request percentage of style
+- Opposing asana
+- Structured but with some surprises
+- Wiki image lookup: https://en.wikipedia.org/w/api.php?action=query&format=json&list=allimages&aisort=name&aiprefix=balasana
+- ML asana detector
+
+# References
+- https://en.wikipedia.org/wiki/List_of_asanas
+
+# Nervous system
+"The sympathetic branch is regarded as the “fight or flight” system, getting us
+ready to act, react and perform, while the parasympathetic side is often
+characterized as the “rest and digest” system. Both systems typically function
+simultaneously, but in opposition to each other, either activating or
+inhibiting specific physiological responses."
+
+https://www.firstbeat.com/en/blog/beyond-heart-rate-heart-rate-variability/
+
+# Qualifications
+To get the UKA coaching assistant it is a two day course turn up and you'll
+pass. The athletics coach is a bit more in depth and takes about 6 months to
+do. 4 days over three weekends. There is not much technical stuff I have picked
+  that up from here and there it is more how to engage and get your message to
+  athletes.
+
+To get the UKA coaching assistant it is a two day course turn up and you'll
+pass. The athletics coach is a bit more in depth and takes about 6 months to
+do. 4 days over three weekends. There is not much technical stuff I have picked
+  that up from here and there it is more how to engage and get your message to
+  athletes.
+
+https://www.englandathletics.org/lirf
