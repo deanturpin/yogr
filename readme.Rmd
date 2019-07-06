@@ -1,5 +1,5 @@
 ---
-title: "`r format(Sys.time(), '%a %b %d %X')`"
+title: "Created `r format(Sys.time(), '%a %b %d %X')`"
 output:
   html_document:
     df_print: kable
@@ -18,5 +18,5 @@ total <- nrow(asana)
 
 # Take sample of all asana
 s <- sample(total, selection)
-asana[s,]
+asana[s,-5]
 ```
