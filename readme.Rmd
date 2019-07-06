@@ -8,7 +8,7 @@ output:
     highlight: zenburn
 ---
 
-```{r}
+```{r, yogr}
 library("csv")
 asana <- read.csv("asana.csv")
 
