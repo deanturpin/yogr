@@ -3,7 +3,7 @@ install:
   - R -e "install.packages('rmarkdown')"
   - R -e "install.packages('csv')"
 
-script: make && rm .gitignore readme.md
+script: make && rm .gitignore
 
 deploy:
   provider: pages
