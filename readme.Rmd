@@ -15,7 +15,6 @@ asana <- read.csv("asana.csv")
 # Select a few
 selection <- 12
 total <- nrow(asana)
-print(paste("A selection of", selection, "from", total, "asana"))
 
 # Take sample of all asana
 s <- sample(total, selection)
