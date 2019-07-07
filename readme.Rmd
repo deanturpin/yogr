@@ -9,15 +9,11 @@ output:
     highlight: zenburn
 ---
 
-```{r, yogr}
+```{r}
 library("csv")
 asana <- read.csv("asana.csv")
 
-# Select a few
-selection <- 12
-total <- nrow(asana)
-
-# Take sample of all asana
-s <- sample(total, selection)
-asana[s,1:3]
+# Take a sample of all asana
+s <- sample(nrow(asana), 12)
+asana[sort(s),1:3]
 ```
