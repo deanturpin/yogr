@@ -21,8 +21,6 @@ Virabhadrasana III,Warrior III,वीरभद्रासन III,Warrior,30,
 Parshvakonasana,Side angle,पार्श्वकोणासन,Warrior,30,
 Vasishtasana,"Vasishta's pose, Side plank",वसिष्ठासन,Plank,35,Extend leg
 "Ashtanga Namaskara, Chaturanga","Eight-Limbed Salutation, Caterpillar",अष्टाङ्ग नमस्कार,Plank,35,One leg
-Malasana,Garland,मालासन,Squatting,35,
-Pashasana,Noose,पाशासन,Squatting,35,
 Chaturanga Dandasana,"Four-Limbed Staff, Low Plank",चतुरङ्गदण्डासन,Plank,35,
 Kumbhakasana,Plank,,Plank,35,"One hand, one hand one leg"
 Samakonasana,Side splits,समकोणासन,Splits,40,
@@ -41,6 +39,8 @@ Parighasana,Gate,परिघासन,Kneeling,50,
 Vajrasana,Thunderbolt,वज्रासन,Kneeling,50,
 Kapotasana,Pigeon,कपोतासन,Kneeling,50,
 "Virasana, Dhyana Virasana","Hero, Hero's Meditation","वीरासन, ध्यान वीरासन",Kneeling,50,
+Malasana,Garland,मालासन,Squatting,55,
+Pashasana,Noose,पाशासन,Squatting,55,
 Astavakrasana,"Aṣṭāvakra's pose, Eight-angled",अष्टावक्रासन,Arm balance,60,
 Bakasana,Crane (arms straight),बकासन,Arm balance,60,
 Kakasana,Crow (arms bent),ककासन,Arm balance,60,Side
@@ -71,6 +71,7 @@ Ek pada urdhva dhanurasana,One foot upwards-facing bow,"ऊर्ध्वधन
 Dhanurasana,Bow,धनुरासन,Back bend,80,
 Shalabhasana,Locust,शलभासन,Back bend,80,Face down with hands flat
 Sarpasana,Snake,,Back bend,80,
+Makarasana,Crocodile,मकरासन,Back bend,80,
 Halasana,Plough,हलासन,Shoulders,85,
 Karnapidasana,Ear-pressing,कर्णपीडासन,Shoulders,85,
 Sarvangasana,Shoulder Stand,सालम्बसर्वाङ्गासन,Shoulders,85,Split legs
@@ -96,5 +97,4 @@ Kurmasana,Tortoise,कूर्मासन,Hips,105,
 Anantasana,"Ananta's pose, Vishnu's Couch pose",अनन्तासन,Prone,110,
 Bhekasana,Frog,भेकासन,Prone,110,
 Supta Virasana,Reclined hero,सुप्त वीरासन,Prone,110,
-Makarasana,Crocodile,मकरासन,Prone,110,
 Mandukasana,Frog,मन्दुकासन,Prone,110,
