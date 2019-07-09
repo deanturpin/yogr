@@ -1,6 +1,6 @@
 ---
 title: "YOGR"
-date: "Created with &hearts; by a Google Cloud instance on `r format(Sys.time())`"
+date: "Compiled with &hearts; by a Google Cloud instance on `r format(Sys.time())`"
 output:
   html_document:
     df_print: kable
