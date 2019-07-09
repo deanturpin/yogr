@@ -1,5 +1,5 @@
 ---
-title: "YOGR"
+title: "Asana lottery bot"
 date: "Compiled with &hearts; by a Google Cloud instance on `r format(Sys.time())`"
 output:
   html_document:
