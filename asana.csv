@@ -3,9 +3,6 @@ Shavasana,Corpse,शवासन,Supine,"Butterfly legs, buttterfly legs and arm
 Ananda Balasana,Happy Baby Pose,,Supine,Straight legs
 Tadasana,Mountain,ताडासन,Standing,"side bend, back bend"
 Pranamasana,Prayer pose – standing with hands in prayer,,Standing,
-Jathara Parivartanasana,Belly twist,ञटर परिवर्तनासन​,Supine,
-Supta Padangusthasana,Big toe supine,सुप्त पादाङ्गुष्ठासन,Supine,
-"Ardha Pavan Muktasana, apanasana",Half Wind Release Pose,,Supine,
 Utkatasana,"Awkward, Powerful, Chair",उत्कटासन,Standing,Lift one heel from the floor
 Adho Mukha Shvanasana,Downward-Facing Dog,अधोमुखश्वानासन,Warrior,
 Anjaneyasana,Crescent Moon,अञ्जनेयासन,Warrior,
@@ -20,10 +17,21 @@ Parshvakonasana,Side angle,पार्श्वकोणासन,Warrior,
 Utthita Parsvakonasana,Extended Side Angle,उत्थितपार्श्वकोणासन,Warrior,
 Virabhadrasana III,Warrior III,वीरभद्रासन III,Warrior,
 Ardha Chandrasana,Half moon,अर्धचन्द्रासन,Warrior,
-Vasishtasana,"Vasishta's pose, Side plank",वसिष्ठासन,Plank,Extend leg
 "Ashtanga Namaskara, Chaturanga","Eight-Limbed Salutation, Caterpillar",अष्टाङ्ग नमस्कार,Plank,One leg
 Chaturanga Dandasana,Four-Limbed Staff – Low Plank,चतुरङ्ग दण्डासन,Plank,
-"Kumbhakasana, Phalakasana",Plank – striaght arms,,Plank,"One hand, one hand one leg"
+"Kumbhakasana, Phalakasana",Plank – striaght arms,,Plank,"One hand, one hand one foot"
+Vasishtasana,"Vasishta's pose, Side plank",वसिष्ठासन,Plank,Extend leg
+Jathara Parivartanasana,Belly twist,ञटर परिवर्तनासन​,Supine,
+Supta Padangusthasana,Big toe supine,सुप्त पादाङ्गुष्ठासन,Supine,
+"Ardha Pavan Muktasana, apanasana",Half Wind Release Pose,,Supine,
+Balasana,Child,बालासन,Kneeling,"wide legs, arms back"
+"Bidalasana, Marjariasana",Cat,"बिडालासन, मार्जरीआसन",Kneeling,Reverse hands
+Parighasana,Gate,परिघासन,Kneeling,
+Vajrasana,Thunderbolt – sitting on the heels,वज्रासन,Kneeling,
+"Virasana, Dhyana Virasana","Hero, Hero's Meditation","वीरासन, ध्यान वीरासन",Kneeling,
+Mandukasana,Frog – face down wide kneel,मन्दुकासन,Kneeling,
+Malasana,Garland – wide knee squat,मालासन,Squatting,
+Pashasana,Noose – squat with bind,पाशासन,Squatting,
 Ardha Padmasana,Half lotus,अर्धपद्मासन,Lotus,
 Gorakshasana,"Cowherd, Gorakhnath's pose",गोरक्षासन,Lotus,
 Bharadvajasana,Bharadvaja's twist,भरद्वाजासन,Lotus,
@@ -33,14 +41,6 @@ Padmasana,Lotus,पद्मासन,Lotus,
 Garbha Pindasana,Embryo in Womb,गर्भासन,Lotus,
 Ardha Baddha Padmottanasana,"Liberated, Accomplished, The Adept's Pose – half lotus forward fold",,Lotus,
 Ardha Baddha Padma Prapadasana,Half lotus tiptoe, ,Lotus,
-Balasana,Child,बालासन,Kneeling,"wide legs, arms back"
-"Bidalasana, Marjariasana",Cat,"बिडालासन, मार्जरीआसन",Kneeling,Reverse hands
-Parighasana,Gate,परिघासन,Kneeling,
-Vajrasana,Thunderbolt – sitting on the heels,वज्रासन,Kneeling,
-"Virasana, Dhyana Virasana","Hero, Hero's Meditation","वीरासन, ध्यान वीरासन",Kneeling,
-Mandukasana,Frog – face down wide kneel,मन्दुकासन,Kneeling,
-Malasana,Garland – wide knee squat,मालासन,Squatting,
-Pashasana,Noose – squat with bind,पाशासन,Squatting,
 Supta Trivikramasana,Trivikrama's pose – supine splits,सुप्त त्रिविक्रमासन,Splits,
 Rajakapotasana,King Pigeon,राजकपोतासन,Splits,
 Hanumanasana,Hanuman's Pose,हनुमनासन,Splits,
@@ -83,7 +83,8 @@ Shalabhasana,Locust,शलभासन,backbend,Face down with hands flat
 Sarpasana,Snake,,backbend,
 Makarasana,Crocodile,मकरासन,backbend,
 Ek pada viparita dandasana,One foot inverted Staff,विपरीत दण्डासन,backbend,
-Ek pada urdhva dhanurasana,One foot upwards-facing bow,"ऊर्ध्वधनुरासन, चक्रासन",backbend,One arm
+Ek pada urdhva dhanurasana,One foot upwards-facing bow,"ऊर्ध्वधनुरासन, चक्रासन",backbend,
+One arm Ek pada urdhva dhanurasana,One foot one arm upwards-facing bow,"ऊर्ध्वधनुरासन, चक्रासन",backbend,
 Halasana,Plough – shoulder stand with legs straight over head,हलासन,Shoulders,
 Karnapidasana,Ear-pressing,कर्णपीडासन,Shoulders,
 Sarvangasana,Shoulder Stand,सालम्बसर्वाङ्गासन,Shoulders,Split legs
