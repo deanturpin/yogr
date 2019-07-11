@@ -5,6 +5,7 @@ Jathara Parivartanasana,Belly twist,ञटर परिवर्तनासन�
 "Viparita Karani, Uttanapadasana (variant)","Inverted practice, Legs up the wall",विपरीतकरणि,Supine,10,
 Supta Padangusthasana,Big toe supine,सुप्त पादाङ्गुष्ठासन,Supine,10,
 "Ardha Pavan Muktasana, apanasana",Half Wind Release Pose,,Supine,10,
+Pranamasana,Prayer pose – standing with hands in prayer,,Standing,20,
 Tadasana,Mountain,ताडासन,Standing,20,"side bend, back bend"
 Utkatasana,"Awkward, Powerful, Chair",उत्कटासन,Standing,20,Lift one heel from the floor
 Adho Mukha Shvanasana,Downward-Facing Dog,अधोमुखश्वानासन,Warrior,30,
@@ -21,13 +22,12 @@ Virabhadrasana III,Warrior III,वीरभद्रासन III,Warrior,30,
 Ardha Chandrasana,Half moon,अर्धचन्द्रासन,Warrior,30,
 Vasishtasana,"Vasishta's pose, Side plank",वसिष्ठासन,Plank,35,Extend leg
 "Ashtanga Namaskara, Chaturanga","Eight-Limbed Salutation, Caterpillar",अष्टाङ्ग नमस्कार,Plank,35,One leg
-Chaturanga Dandasana,"Four-Limbed Staff, Low Plank",चतुरङ्गदण्डासन,Plank,35,
+Chaturanga Dandasana,"Four-Limbed Staff, Low Plank",चतुरङ्ग दण्डासन,Plank,35,
 Kumbhakasana,Plank,,Plank,35,"One hand, one hand one leg"
 Ardha Padmasana,Half lotus,अर्धपद्मासन,Lotus,45,
 Gorakshasana,"Cowherd, Gorakhnath's pose",गोरक्षासन,Lotus,45,
 Bharadvajasana,Bharadvaja's twist,भरद्वाजासन,Lotus,45,
 Gomukhasana,Cow-faced,गोमुखासन,Lotus,45,
-Kraunchasana,Heron,क्रौञ्चासन,Lotus,45,
 "Muktasana,Siddhasana, Siddha Yoni Asana","Liberated, Accomplished, The Adept's Pose","मुक्तासन, सिद्धासन",Lotus,45,
 Padmasana,Lotus,पद्मासन,Lotus,45,
 Garbha Pindasana,Embryo in Womb,गर्भासन,Lotus,45,
@@ -39,8 +39,8 @@ Parighasana,Gate,परिघासन,Kneeling,50,
 Vajrasana,Thunderbolt – sitting on the heels,वज्रासन,Kneeling,50,
 "Virasana, Dhyana Virasana","Hero, Hero's Meditation","वीरासन, ध्यान वीरासन",Kneeling,50,
 Mandukasana,Frog – face down wide kneel,मन्दुकासन,Kneeling,50,
-Malasana,Garland,मालासन,Squatting,55,
-Pashasana,Noose,पाशासन,Squatting,55,
+Malasana,Garland – wide knee squat,मालासन,Squatting,55,
+Pashasana,Noose – squat with bind,पाशासन,Squatting,55,
 Supta Trivikramasana,Trivikrama's pose – supine splits,सुप्त त्रिविक्रमासन,Splits,57,
 Rajakapotasana,King Pigeon,राजकपोतासन,Splits,57,
 Hanumanasana,Hanuman's Pose,हनुमनासन,Splits,57,
@@ -58,7 +58,7 @@ Lolasana,Pendant,लोलासन,Arm balance,60,
 Tulasana,"Balance, Scales",तुलासन,Arm balance,60,
 Mayurasana,Peacock,मयूरासन,Arm balance,60,
 Ek pada galavasana,Flying pigeon,,Arm balance,60,
-Vrikshasana,Tree,वृक्षासन,balance,70,
+"Vrikshasana, ek pad pranamasana","Tree, one foot prayer",वृक्षासन,balance,70,
 Garudasana,Eagle,गरुडासन,balance,70,
 Single leg Utkatasana,Single leg chair – pistol squat,उत्कटासन,balance,70,
 Utthita Hastapadangusthasana,Standing Big Toe Hold,उत्थित हस्तपादाङ्गुष्ठासन,balance,70,"leg to the side, leg to the front"
@@ -91,7 +91,8 @@ Setu Bandha Sarvangasana,Shoulder supported bridge,सेतुबन्धस�
 Parshvottanasana,Intense side stretch,पार्श्वोत्तनासन,Fold,90,
 Prasarita Padottanasana,Wide Stance Forward Bend,प्रसारित पादोत्तानासन,Fold,90,Clasp hands behind back
 Uttanasana,Standing Forward Bend,उत्तानासन,Fold,90,"Prayer hands, revolving, hands clasped behind back, holding opposite elbows, holding calves"
-Janusirsasana,Head-to-Knee,जानुशीर्षासन,Fold,90,
+Janusirsasana,Head to knee – seated forward fold,जानुशीर्षासन,Fold,90,
+Kraunchasana,Heron – seated with one foot back like hero and lift straight leg to head,क्रौञ्चासन,Fold,90,
 Dandasana,Staff,दण्डासन,Seated,100,
 "Baddha Konasana, Bhadrasana","Bound angle, Cobbler's pose",बद्धकोणासन,Seated,100,Lean to front and side
 Akarna Dhanurasana,"Shooting bow, Archer, Bow and arrow",आकर्णधनुरासन,Seated,100,
