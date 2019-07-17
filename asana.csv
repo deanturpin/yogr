@@ -37,6 +37,7 @@ Balasana,Child,बालासन,Kneeling,"wide legs, arms back"
 Parighasana,Gate,परिघासन,Kneeling,
 Vajrasana,Thunderbolt – sitting on the heels,वज्रासन,Kneeling,
 "Virasana, Dhyana Virasana","Hero, Hero's Meditation","वीरासन, ध्यान वीरासन",Kneeling,
+Supta Virasana,Reclined hero,सुप्त वीरासन,Kneeling,
 Mandukasana,Frog – face down wide kneel,मन्दुकासन,Kneeling,
 Malasana,Garland – wide knee squat,मालासन,Squatting,
 Pashasana,Noose – squat with bind,पाशासन,Squatting,
@@ -71,8 +72,6 @@ Vrischikasana,Scorpion,वृश्चिकासन,Inversion,
 Straight arm Shirshasana,Straight arm headstand,शीर्षासन,Inversion,Palms up
 Pincha Mayurasana,Feathered Peacock,पिञ्चमयूरासन,Inversion,
 Adho Mukha Vrikshasana,"Handstand, Downward-Facing Tree",अधोमुखवृक्षासन,Inversion,
-Ardha Bhekasana,Frog – prone backbend holding top of one foot,भेकासन,Backbend,
-Bhekasana,Frog – prone backbend holding top of feet,भेकासन,Backbend,
 Matsyasana,Fish – supine backbend with hands under glutes and back of head on floor,मत्स्यासन,Backbend,
 "Viparita Karani, Uttanapadasana",Supported back bend with shoulders down and legs upwards,विपरीतकरणि,Backbend,Legs up the wall
 Bhujangasana,Cobra,भुजङ्गासन,Backbend,
@@ -81,13 +80,12 @@ Urdhva Mukha Shvanasana,Upward-Facing Dog,ऊर्ध्वमुखश्व�
 Ushtrasana,Camel,उष्ट्रासन,Backbend,
 "Urdhva Dhanurasana, Chakrasana","Upwards-facing bow, wheel","ऊर्ध्वधनुरासन, चक्रासन",Backbend,
 Viparita Dandasana,Inverted Staff,विपरीत दण्डासन,Backbend,
-Dhanurasana,Bow,धनुरासन,Backbend,
-Shalabhasana,Locust,शलभासन,Backbend,Face down with hands flat
+Dhanurasana,Bow – prone backbend holding ankles ,धनुरासन,Backbend,
+Shalabhasana,Locust – prone backbend with straight arms and legs elevated,शलभासन,Backbend,Face down with hands flat
 Sarpasana,Snake,,Backbend,
 Makarasana,Crocodile,मकरासन,Backbend,
 Ek pada viparita dandasana,One foot inverted Staff,विपरीत दण्डासन,Backbend,
-Ek pada urdhva dhanurasana,One foot upwards-facing bow,"ऊर्ध्वधनुरासन, चक्रासन",Backbend,
-One arm Ek pada urdhva dhanurasana,One foot one arm upwards-facing bow,"ऊर्ध्वधनुरासन, चक्रासन",Backbend,
+Ek pada urdhva dhanurasana,One foot upwards-facing bow,"ऊर्ध्वधनुरासन, चक्रासन",Backbend,Lift opposite hand
 Halasana,Plough – shoulder stand with legs straight over head,हलासन,Shoulders,
 Karnapidasana,Ear-pressing,कर्णपीडासन,Shoulders,
 Sarvangasana,Shoulder Stand,सालम्बसर्वाङ्गासन,Shoulders,Split legs
@@ -112,5 +110,6 @@ Kapotasana,Pigeon,कपोतासन,Hips,
 Kurmasana,Tortoise – straddle forward fold with arms under legs,कूर्मासन,Hips,
 "Yoganidrasana, Pasini Mudra","Yogic sleep, Noose Mudra – both legs behind head",योगनिद्रासन,Hips,
 Anantasana,"Ananta's pose, Vishnu's Couch pose – straight leg lift lying on the side",अनन्तासन,Hips,
-Supta Virasana,Reclined hero,सुप्त वीरासन,Kneeling,
-Supta Padangusthasana,Big toe supine,सुप्त पादाङ्गुष्ठासन,Supine,
+Ardha Bhekasana,Frog – prone backbend holding top of one foot,भेकासन,Backbend,
+Bhekasana,Frog – prone backbend holding top of feet,भेकासन,Backbend,
+Supta Padangusthasana,Supine straight leg raise,सुप्त पादाङ्गुष्ठासन,Supine,
