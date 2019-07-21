@@ -24,3 +24,10 @@ See the [complete asana library](https://github.com/deanturpin/yogr/blob/master/
 ```{r}
 plot(asana[sort(s),4], col=rainbow(18), las=2)
 ```
+
+# Target areas for the complete asana library
+See the [complete library](https://github.com/deanturpin/yogr/blob/master/asana.csv).
+
+```{r}
+plot(asana[,4], col=rainbow(20), las=2)
+```
